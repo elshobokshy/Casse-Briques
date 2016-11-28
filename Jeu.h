@@ -26,10 +26,10 @@ private:
 
     SDL_Texture* texture;
 
-    // Timing
+    // timing
     unsigned int lasttick, fpstick, fps, framecount;
 
-    // Test
+    // test
     float testx, testy;
 
     Table* table;

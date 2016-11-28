@@ -6,7 +6,7 @@
 #include <math.h>
 
 // vitesse de la balle
-const float BALL_SPEED = 1200;
+const float BALL_SPEED = 900;
 
 class Balle: public Objet {
 public:

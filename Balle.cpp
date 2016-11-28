@@ -32,7 +32,7 @@ void Balle::Render(float delta) {
 }
 
 void Balle::SetDirection(float dirx, float diry) {
-    // Direction de la ballee et la vitesse avec BALL_SPEED
+    // Direction de la balle et la vitesse avec BALL_SPEED
     float length = sqrt(dirx * dirx + diry * diry);
     this->dirx = BALL_SPEED * (dirx / length);
     this->diry = BALL_SPEED * (diry / length);

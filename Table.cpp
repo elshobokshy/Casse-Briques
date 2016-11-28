@@ -40,7 +40,7 @@ void Table::Render(float delta) {
             srcrect.y = (briques.type / 2) * BOARD_BRHEIGHT;
             srcrect.w = BOARD_BRWIDTH;
             srcrect.h = BOARD_BRHEIGHT;
-
+            // pour les cotés...
             SDL_Rect dstrect;
             dstrect.x = briquesoffsetx + x + i * BOARD_BRWIDTH;
             dstrect.y = briquesoffsety + y + j * BOARD_BRHEIGHT;
