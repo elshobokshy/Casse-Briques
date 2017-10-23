@@ -1,7 +1,4 @@
 # A propos du projet Casse-Briques
-## CREDITS
-~Islam ALAAELDIN ALI ELSHOBOKSHY<br />
-~Malcolm BERTHON
 ## Plus d'informations
 Ce projet est un projet pour nous faire découvrir le C++ et essayer d'approfondir nos connaissances en SDL2 avec un niveau plus au moins professionnel. Il a été crée en 3 mois donc il montre un jeu de casse-briques basiques. Le code est mis en entier en open-source, pour n'importe quelle personne qui voudrait un exemple d'un jeu de casse-briques.
 # Comment faire tourner le jeu ?
